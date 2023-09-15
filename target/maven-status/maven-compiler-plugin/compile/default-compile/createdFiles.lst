@@ -1,0 +1,5 @@
+MyPages\BasePage.class
+QaUtils\ConfigReader.class
+MyPages\JioMartHomePage.class
+MyPages\JioMartFooterPage.class
+QAFactory\DriverFactory.class

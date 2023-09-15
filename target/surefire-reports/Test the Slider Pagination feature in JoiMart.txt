@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Test the Slider Pagination feature in JoiMart
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 115.5 s -- in Test the Slider Pagination feature in JoiMart

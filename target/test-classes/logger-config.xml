@@ -1,0 +1,15 @@
+<configuration>
+    <appender name="ExtentReporter" class="com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapterLogger">
+        <layout class="ch.qos.logback.classic.PatternLayout">
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </layout>
+    </appender>
+
+    <logger name="ExtentReporterLogger" additivity="false" level="INFO">
+        <appender-ref ref="ExtentReporter" />
+    </logger>
+
+    <root level="INFO">
+        <appender-ref ref="ExtentReporter" />
+    </root>
+</configuration>

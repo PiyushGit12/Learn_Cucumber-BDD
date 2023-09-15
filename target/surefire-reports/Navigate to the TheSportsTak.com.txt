@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Navigate to the TheSportsTak.com
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 205.5 s -- in Navigate to the TheSportsTak.com
